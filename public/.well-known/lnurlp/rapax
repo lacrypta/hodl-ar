@@ -1,8 +1,10 @@
 {
   "tag": "payRequest",
-  "callback": "https://39ad255340.d.voltageapp.io/lnurlp/api/v1/lnurl/cb/59",
+  "callback": "https://wallet.lacrypta.ar/lnurlp/api/v1/lnurl/cb/8L5yhK",
   "minSendable": 1000,
-  "maxSendable": 100000000000,
-  "metadata": "[[\"text/plain\", \"LNURL LNbits\"]]",
-  "commentAllowed": 32
+  "maxSendable": 10000000000,
+  "metadata": "[[\"text/plain\", \"lnbits\"]]",
+  "commentAllowed": 32,
+  "allowsNostr": true,
+  "nostrPubkey": "2a1ca5fbdfafa01efc025ca030f8a98aa4578584165e7b3c5c190100028a4744"
 }
