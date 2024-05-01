@@ -1,0 +1,16 @@
+{
+  "status":"OK",
+  "tag":"payRequest",
+  "commentAllowed":255,
+  "callback":"https://api.lawallet.ar/lnurlp/0422409babc35ea01492aa5c18de29ade51e1708fb862db066e93881453026ba/callback",
+  "metadata": "[[\"text/identifier\",\"f3r@lawallet.com\"],[\"text/plain\",\"Sats for F3R\"]]",
+  "minSendable":1000,
+  "maxSendable":10000000000,
+  "payerData":{"name":{"mandatory":false},
+  "email":{"mandatory":false},
+  "pubkey":{"mandatory":false}},
+  "nostrPubkey":"e17feb5f2cf83546bcf7fd9c8237b05275be958bd521543c2285ffc6c2d654b3",
+  "allowsNostr":true,
+  "federationId":"lawallet.ar",
+  "accountPubKey":"0422409babc35ea01492aa5c18de29ade51e1708fb862db066e93881453026ba"
+}
