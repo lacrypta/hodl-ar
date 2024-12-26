@@ -2,10 +2,10 @@
   "status": "OK",
   "tag": "payRequest",
   "commentAllowed": 255,
-  "callback": "https://getalby.com/lnurlp/tincho70/callback",
-  "metadata": "[[\"text/identifier\",\"tincho70@getalby.com\"],[\"text/plain\",\"Sats for Tincho\"]]",
+  "callback": "https://api.lawallet.ar/lnurlp/013c7ee1ef6820fcb0fd9bd97803f3f59216c80b56a39101c232c24281b02d80/callback",
+  "metadata": "[[\"text/identifier\",\"tincho70@lawallet.ar\"],[\"text/plain\",\"Sats for Tincho\"]]",
   "minSendable": 1000,
-  "maxSendable": 11000000000,
+  "maxSendable": 10000000000,
   "payerData": {
     "name": {
       "mandatory": false
@@ -17,6 +17,8 @@
       "mandatory": false
     }
   },
-  "nostrPubkey": "79f00d3f5a19ec806189fcab03c1be4ff81d18ee4f653c88fac41fe03570f432",
-  "allowsNostr": true
+  "nostrPubkey": "e17feb5f2cf83546bcf7fd9c8237b05275be958bd521543c2285ffc6c2d654b3",
+  "allowsNostr": true,
+  "federationId": "lawallet.ar",
+  "accountPubKey": "013c7ee1ef6820fcb0fd9bd97803f3f59216c80b56a39101c232c24281b02d80"
 }
