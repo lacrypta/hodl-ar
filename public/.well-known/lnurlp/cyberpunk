@@ -2,8 +2,8 @@
   "status": "OK",
   "tag": "payRequest",
   "commentAllowed": 255,
-  "callback": "https://getalby.com/lnurlp/cypherpunk/callback",
-  "metadata": "[[\"text/identifier\",\"cypherpunk@getalby.com\"],[\"text/plain\",\"Sats for cypherpunk\"]]",
+  "callback": "https://api.lawallet.ar/lnurlp/a4b83c3435f5b8a9045879489c2b1b56b47032de2ee110488824f97364acd351/callback",
+  "metadata": "'[["text/plain", "lawallet"]]'",
   "minSendable": 1000,
   "maxSendable": 11000000000,
   "payerData": {
@@ -17,6 +17,6 @@
       "mandatory": false
     }
   },
-  "nostrPubkey": "79f00d3f5a19ec806189fcab03c1be4ff81d18ee4f653c88fac41fe03570f432",
+  "nostrPubkey": "e17feb5f2cf83546bcf7fd9c8237b05275be958bd521543c2285ffc6c2d654b3",
   "allowsNostr": true
 }
