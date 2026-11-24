@@ -1,0 +1,13 @@
+{
+  "status":"OK",
+  "tag":"payRequest",
+  "callback":"https://beta.lawallet.io/api/lud16/fred/cb",
+  "minSendable":1000,
+  "maxSendable":1000000000,
+  "metadata": "[[\"text/identifier\", \"fred@hodl.ar\"],[\"text/plain\", \"Payment to @fred\"]]",
+  "commentAllowed":200,
+  "payerData":{"name":{"mandatory":false}, "email":{"mandatory":false}},
+  "allowsNostr":true,
+  "nostrPubkey":"07a6f8688919629e495899ed743a277abcff9c3b7600ba3500fe8cbdb54a6033"
+}
+
